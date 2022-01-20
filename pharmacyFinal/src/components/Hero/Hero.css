@@ -1,0 +1,39 @@
+.hero{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    /* background: url("./hero.jpg"); */
+    background-size:cover ;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+    
+}
+.main-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-text h3{
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+.main-text p{
+    font-size: 1.5rem;
+}
+.search-form{
+    display: flex;
+    margin-top: 30px;
+    box-shadow: 1px 1px a  black;
+}
+.search-box{
+    border-radius: 5px;
+    border: .5px rgba(0,0,0,.5) solid;
+    height: 40px;
+    width: 450px;
+}

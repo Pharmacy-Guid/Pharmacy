@@ -1,0 +1,12 @@
+.loader{
+border-radius:50%;
+height: 5px;
+width: 5px;
+background-color: #fff;
+}
+.message{
+    display: flex;
+    border:1pt rgb(161, 159, 159) solid;
+    border-radius: 5px;
+    
+}
