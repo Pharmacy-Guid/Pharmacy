@@ -1,0 +1,21 @@
+
+export const USER_SUCCESS="USER_SUCCESS";
+export const USER_REQUEST="USER_REQUEST";
+export const USER_FAIL="USER_FAIL";
+export const SIGNED_UP="SIGND_UP";
+export const LOGED_IN="LOGED_IN";
+export const UNFOUND="UNFOUND"
+export const ADD_TOKEN="ADD_TOKEN"
+
+//medicine actions
+export const MEDICINE_SUCCESS="MEDICINE_SUCCESS";
+export const MEDICINE_REQUEST="MEDICINE_REQUEST";
+export const MEDICINE_FAIL="MEDICINE_FAIL";
+export const MEDICINE_ADDED="MEDICINE_ADDED";
+export const MEDICINE_DELETED="MEDICINE_DELETED"
+//pharmacy actions
+export const PHARMACY_SUCCESS="PHARMACY_SUCCESS";
+export const PHARMACY_REQUEST="PHARMACY_REQUEST";
+export const PHARMACY_FAIL="PHARMACY_FAIL";
+export const PHARMACY_ADDED="PHARMACY_ADDED";
+export const MEDICINE_FOUND="MEDICINE_FOUND"
